@@ -1,0 +1,17 @@
+{
+  "name": "amex_pink",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node-sass scss/main.scss -o css --watch ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}
