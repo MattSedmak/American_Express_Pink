@@ -18,7 +18,9 @@ d picture were edited i Photoshop.
 <img width="200"  src="https://user-images.githubusercontent.com/62596608/115519735-c4265d80-a289-11eb-9bf1-2b88c63d7294.png">
 
 <img width="200" src="https://user-images.githubusercontent.com/62596608/115519802-d3a5a680-a289-11eb-9550-a212b451e10e.png">
-![ManOnCliffBg](https://user-images.githubusercontent.com/62596608/115521406-6bf05b00-a28b-11eb-89d6-16d96a9a6c46.jpg)
+
+<img width="200" src="https://user-images.githubusercontent.com/62596608/115521406-6bf05b00-a28b-11eb-89d6-16d96a9a6c46.jpg">
+
 
 The project was built using HTML, SCSS and the animation library GSAP.
 
