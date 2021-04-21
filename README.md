@@ -4,7 +4,7 @@
 
 Assignment for Web & graphic design course.
 
-<img width="400" alt="Skärmavbild 2021-04-21 kl  10 27 34" src="https://user-images.githubusercontent.com/62596608/115522757-ad353a80-a28c-11eb-9ad8-fef399ae12c0.png">
+<img width="400" alt="Skärmavbild 2021-04-21 kl  10 27 49" src="https://user-images.githubusercontent.com/62596608/115523010-e9689b00-a28c-11eb-84d0-92bab6131976.png"> <img width="400" alt="Skärmavbild 2021-04-21 kl  10 27 34" src="https://user-images.githubusercontent.com/62596608/115522757-ad353a80-a28c-11eb-9ad8-fef399ae12c0.png">
 
 
 ## The brief
