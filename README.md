@@ -12,8 +12,7 @@ The brief for the assigment was that a company (of our choice) wanted 'something
 
 The sketch of my landing site was created in Adobe Xd.
 
-I createad a logo for the ficticous cancer charitry, The Cancer Foundation i Adobe illustrator and finally the Amex pink card and backgroun
-d picture were edited i Photoshop.
+I createad a logo for the ficticous cancer charitry, The Cancer Foundation i Adobe illustrator and finally the Amex pink card and background picture were edited i Photoshop.
 
 <img width="200"  src="https://user-images.githubusercontent.com/62596608/115519735-c4265d80-a289-11eb-9bf1-2b88c63d7294.png">
 
