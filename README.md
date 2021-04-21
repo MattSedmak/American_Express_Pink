@@ -4,6 +4,9 @@
 
 Assignment for Web & graphic design course.
 
+<img width="400" alt="Skärmavbild 2021-04-21 kl  10 27 34" src="https://user-images.githubusercontent.com/62596608/115522757-ad353a80-a28c-11eb-9ad8-fef399ae12c0.png">
+
+
 ## The brief
 
 The brief for the assigment was that a company (of our choice) wanted 'something cool' for their website. We had to make sure than we followed the company's graphic design guildlines. I went with a campagin launch landing page for a collab between American express and a fictious cancer charity. We had to implemnet at least one animation and one svg.
