@@ -35,5 +35,5 @@ npm install
 To start, open:
 
 ```
-index.html
+https://mattsedmak.github.io/American_Express_Pink/
 ```
