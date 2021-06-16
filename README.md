@@ -22,6 +22,13 @@ I createad a logo for the ficticous cancer charitry, The Cancer Foundation i Ado
 
 The project was built using HTML, SCSS and the animation library GSAP.
 
+## Usage
+
+To start, open:
+
+https://mattsedmak.github.io/American_Express_Pink/
+
+
 ## Installation
 
 ```bash
@@ -29,10 +36,4 @@ git clone https://github.com/MattSedmak/expert-octo-pancake.git
 
 npm install
 ```
-
-## Usage
-
-To start, open:
-
-https://mattsedmak.github.io/American_Express_Pink/
 
